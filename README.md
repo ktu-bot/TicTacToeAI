@@ -1,2 +1,0 @@
-# TicTacToeAI
-TicTacToeAI
